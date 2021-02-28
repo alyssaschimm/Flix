@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/hecLgnspms.gif" width=250><br>
+<img src="http://g.recordit.co/xvGORsClBf.gif" width=250><br>
 
 ### Notes
 I encountered some challenges when trying to link the URLs for the similar movies to the project. It turned out that the link I got from the API documentation was not working and instead I had to use the one directly from the video. 
